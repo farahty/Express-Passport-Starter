@@ -1,0 +1,6 @@
+{
+  "name": "Express-passport-starter",
+  "tagline": "Starter app for node express passport",
+  "body": "# Express-Passport-Starter\r\n\r\n`git clone https://github.com/nimerfarahty/Express-Passport-Starter.git myapp \r\ncd myapp\r\nnpm install\r\nbower install\r\ngulp\r\nnpm start\r\n`\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
